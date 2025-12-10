@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🚀I'm a Frontend Developer<br><br>
-🛰️ I’m currently working on Hero Fincorp Digital Lending 2.0 UI at Hero Fincorp<br><br>🤝 I’m looking for help with deep product thinking, scaling frontend architecture, and making the jump into more product-centric engineering roles<br><br>🌱 I’m currently learning Next.js, and Python<br><br>💬 Ask me about React, Next.js, MUI, fintech journeys<br><br>⚡ Fun fact obsessed with UI and equally obsessed with fitness and protein mixes.
+🛰️ I’m currently working on Hero Fincorp Digital Lending 2.0 UI at Hero Fincorp<br><br>🤝 I’m looking for help with moving into more product-driven roles<br><br>🌱 I’m currently learning Next.js, and Python<br><br>💬 Ask me about React, Next.js, MUI, fintech journeys<br><br>⚡ Fun fact obsessed with UI and equally obsessed with fitness and protein mixes.
 
 
 ## 🌐 Socials:
