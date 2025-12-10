@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-⭐I'm a Frontend Developer<br><br>
-🛰️ I’m currently working on<br>Hero Fincorp Digital Lending 2.0 UI, stepper flows, CKYC, DigiKYC, and conversion-optimized React experiences<br><br>🤝 I’m looking for help with<br>deep product thinking, scaling frontend architecture, and making the jump into more product-centric engineering roles<br><br>🌱 I’m currently learning Next.js, and Python<br><br>💬 Ask me about<br>React, Next.js, MUI, RTK Query, digital lending flows, insurance UI, UX-driven conversion, and building step-by-step journeys that actually convert<br><br>⚡ Fun fact<br>I can talk for hours about UI, but also about protein macros, seed mixes, and workout splits—because shipping features and building muscle deserve equal energy
+🚀I'm a Frontend Developer<br><br>
+🛰️ I’m currently working on Hero Fincorp Digital Lending 2.0 UI at Hero Fincorp<br><br>🤝 I’m looking for help with deep product thinking, scaling frontend architecture, and making the jump into more product-centric engineering roles<br><br>🌱 I’m currently learning Next.js, and Python<br><br>💬 Ask me about React, Next.js, MUI, fintech journeys<br><br>⚡ Fun fact obsessed with UI and equally obsessed with fitness and protein mixes.
 
 
 ## 🌐 Socials:
